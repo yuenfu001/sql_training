@@ -1,3 +1,4 @@
+``` sql
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
 mysql> show databases;
@@ -270,3 +271,5 @@ mysql> SELECT department, COUNT(*) AS total_staff from info GROUP BY department 
 | IT         |           1 |
 +------------+-------------+
 3 rows in set (0.00 sec)
+
+```
